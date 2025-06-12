@@ -6,8 +6,8 @@ I'm a detective transitioning into the world of cybersecurity and digital forens
 
 ## 🛠️ Current Projects
 
-- 🔎 **Forensic Pi Toolkit** – A Raspberry Pi Zero W live response tool that emulates a keyboard to extract volatile data.
-- 🧠 **Pi Cluster Lab** – VLAN-segmented Raspberry Pi 5 setup for monitoring, DNS filtering (Pi-hole), and remote access with Tailscale.
+- 🔎 **[Forensic Pi Toolkit](https://github.com/MtnMinniti/forensicpi)** – A Raspberry Pi Zero W live response tool that emulates a keyboard to extract volatile data.
+- 🧠 **[Home Lab](https://github.com/MtnMinniti/MiniMinnitiRack)** – VLAN-segmented home lab with MS-01, Ubiquiti, and Raspberry Pi's for monitoring, DNS filtering (Pi-hole), and remote access with Tailscale.
 - 🧪 **Sandboxed Analysis** – Recovered and repurposed hardware for malware analysis, RAM dump parsing, and tool experimentation.
 
 ---
