@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adriano Minniti
+# 👋 Hi, I'm A. Minniti
 
 I'm a detective transitioning into the world of cybersecurity and digital forensics. With a background in law enforcement and investigations, I'm now building hands-on technical skills through Raspberry Pi-based projects, custom networking builds, and forensic toolkits.
 
